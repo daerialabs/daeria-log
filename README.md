@@ -18,7 +18,7 @@ library only, one JSON record format everywhere.
 Requires Python 3.11+.
 
 ```
-pip install git+https://github.com/<owner>/daeria-log.git
+pip install git+https://github.com/daerialabs/daeria-log.git
 ```
 
 Inside a DCC, use the interpreter of the application (for example
